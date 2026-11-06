@@ -1,5 +1,5 @@
 # Documentation updates
 
-Last update: 06.11.2026 16:12 UTC
+Last update: 06.11.2026 16:30 UTC
 
-<!-- last-update: 2026-11-06T16:12:52Z -->
+<!-- last-update: 2026-11-06T16:30:16Z -->
